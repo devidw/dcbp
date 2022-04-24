@@ -29,7 +29,7 @@ When you are referring to only one part of an external resource, you should cons
 
 
 == Write in threads
-In chat based communication it is extremely helpful to keep related content related. This way everyone will understand the context immediately and things re nicely organized. Most platforms offer a so-called feature _threads_, which allows you to build up a list of answers, a thread, that was started by a single message. Instead of writing a new message, just look for a feature to answer to the given message.
+In chat based communication it is extremely helpful to keep related content related. This way everyone will understand the context immediately and things are nicely organized. Most platforms offer a so-called feature _threads_, which allows you to build up a list of answers, a thread, that was started by a single message. Instead of writing a new message, just look for a feature to answer to the given message.
 
 .Platform examples
 * https://faq.whatsapp.com/general/chats/how-to-reply-to-a-message/?lang=en
