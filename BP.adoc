@@ -1,0 +1,42 @@
+= Digital Communications Best Practices
+:author: David Wolf and contributors
+:toc:
+:sectlinks:
+:sectanchors:
+
+Digital communication is super powerful, since it is not limited to only writing or speaking plain text. It can include all kind of media types, like for example hyperlinks, images, videos, etc., which build a better foundation for great communication. However, often theses digital features are sparely used and humans tend to communicate the old style while most platforms have support for rich formatted (next level) communication. 
+
+Humans have to stop thinking in the limited way of old communication and start communicating like we are in the 21st century. Since most humans are not interested in actively improving their digital communication skills and habits, we have to tell them. But telling the same things over and over again sucks, it cost a lot of time and energy and there is little effect, since most times you are teachings a single human - of how many? That's why we created the _Digital Communications Best Practices_:
+
+The _Digital Communications Best Practices_ define a growing list of general and specific things to keep in mind when communicating over digital platforms like chats or messengers. You can use the list to audit your digital communication skills. However, the main reason of the list is to have a sharable resource to confront others with. The next time someone texts you a message, which does not implement one or multiple of the here defined best practices, feel free to kindly include a link to this document or one or more specific sections in this document. This way, humans hopefully will adopt and make use of the advantage of digital communication more quickly and more often.
+
+
+== Link to content
+Instead of describing where to look for something in a textual manner, just share the URL of that resource, so the recipient of your message will only have to open the link instead of having to follow your instructions or manually have to search for the described thing, which may end in non-exact results. So, sharing links also makes sure the recipient will know exactly what you are talking about, no misunderstanding, since the resource absolutely defines, what's going on.
+
+
+=== Link to sections or paragraphs
+When you are referring to only one part of an external resource, you should consider sharing the URL to a given section on the resource. For example, a link to a heading of an article section or a block of a give document, line of code or even section or lines, etc. The more accurate you link, the best.
+
+.Platform examples
+* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
+
+
+=== Link to text fragments
+
+.Platform examples
+* https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg?hl=en
+
+
+== Write in threads
+In chat based communication it is extremely helpful to keep related content related. This way everyone will understand the context immediately and things re nicely organized. Most platforms offer a so-called feature _threads_, which allows you to build up a list of answers, a thread, that was started by a single message. Instead of writing a new message, just look for a feature to answer to the given message.
+
+.Platform examples
+* https://faq.whatsapp.com/general/chats/how-to-reply-to-a-message/?lang=en
+* https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-
+* https://support.google.com/mail/answer/5900?hl=en&co=GENIE.Platform%3DDesktop
+
+
+// == Quote on text
+
+// == Use Lists

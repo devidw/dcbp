@@ -1,0 +1,24 @@
+= Digital Communications Best Practices
+
+To view and edit the best practices open link:./BP.adoc[].
+
+
+== Build
+
+=== Conda
+// conda env export > environment.yml
+
+[source,sh]
+----
+conda activate chat-bps
+----
+
+
+=== Shell script
+To run the script first make it executable:
+
+[source,sh]
+----
+chmod +x ./build.sh
+./build.sh
+----

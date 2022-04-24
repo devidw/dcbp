@@ -1,0 +1,20 @@
+name: chat-bps
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - asciidoctor=2.0.17=h5df7e58_0
+  - ca-certificates=2021.10.8=h033912b_0
+  - gdbm=1.18=h8a0c380_2
+  - gettext=0.19.8.1=hd1a6beb_1008
+  - gmp=6.2.1=h2e338ed_0
+  - libcxx=13.0.1=hc203e6f_0
+  - libffi=3.4.2=h0d85af4_5
+  - libiconv=1.16=haf1e3a3_0
+  - libzlib=1.2.11=h6c3fc93_1014
+  - ncurses=6.3=h96cf925_1
+  - openssl=1.1.1n=h6c3fc93_0
+  - readline=8.1=h05e3726_0
+  - ruby=2.6.6=h1c0b240_3
+  - yaml=0.2.5=h0d85af4_2
+prefix: /Users/devidw/opt/miniconda3/envs/chat-bps
