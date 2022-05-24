@@ -19,22 +19,31 @@ Instead of describing where to look for something in a textual manner, just shar
 When you are referring to only one part of an external resource, you should consider sharing the URL to a given section on the resource. For example, a link to a heading of an article section or a block of a give document, line of code or even section or lines, etc. The more accurate you link, the best.
 
 .Platform examples
+[%collapsible]
+====
 * https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
+====
 
 
 === Link to text fragments
 
 .Platform examples
+[%collapsible]
+====
 * https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg?hl=en
+====
 
 
 == Write in threads
 In chat based communication it is extremely helpful to keep related content related. This way everyone will understand the context immediately and things are nicely organized. Most platforms offer a so-called feature _threads_, which allows you to build up a list of answers, a thread, that was started by a single message. Instead of writing a new message, just look for a feature to answer to the given message.
 
 .Platform examples
+[%collapsible]
+====
 * https://faq.whatsapp.com/general/chats/how-to-reply-to-a-message/?lang=en
 * https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-
 * https://support.google.com/mail/answer/5900?hl=en&co=GENIE.Platform%3DDesktop
+====
 
 
 // == Quote on text
