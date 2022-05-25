@@ -46,6 +46,14 @@ In chat based communication it is extremely helpful to keep related content rela
 ====
 
 
-// == Quote on text
+== Quote on text
+
+.Platform examples
+[%collapsible]
+====
+* https://slack.com/help/articles/202288908-Format-your-messages#markup
+* https://support.google.com/a/users/answer/9308682?hl=en
+====
+
 
 // == Use Lists
