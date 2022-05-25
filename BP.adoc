@@ -11,29 +11,6 @@ Humans have to stop thinking in the limited way of old communication and start c
 The _Digital Communications Best Practices_ define a growing list of general and specific things to keep in mind when communicating over digital platforms like chats or messengers. You can use the list to audit your digital communication skills. However, the main reason of the list is to have a sharable resource to confront others with. The next time someone texts you a message, which does not implement one or multiple of the here defined best practices, feel free to kindly include a link to this document or one or more specific sections in this document. This way, humans hopefully will adopt and make use of the advantage of digital communication more quickly and more often.
 
 
-== Link to content
-Instead of describing where to look for something in a textual manner, just share the URL of that resource, so the recipient of your message will only have to open the link instead of having to follow your instructions or manually have to search for the described thing, which may end in non-exact results. So, sharing links also makes sure the recipient will know exactly what you are talking about, no misunderstanding, since the resource absolutely defines, what's going on.
-
-
-=== Link to sections or paragraphs
-When you are referring to only one part of an external resource, you should consider sharing the URL to a given section on the resource. For example, a link to a heading of an article section or a block of a give document, line of code or even section or lines, etc. The more accurate you link, the best.
-
-.Platform examples
-[%collapsible]
-====
-* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
-====
-
-
-=== Link to text fragments
-
-.Platform examples
-[%collapsible]
-====
-* https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg?hl=en
-====
-
-
 == Write in threads
 In chat based communication it is extremely helpful to keep related content related. This way everyone will understand the context immediately and things are nicely organized. Most platforms offer a so-called feature _threads_, which allows you to build up a list of answers, a thread, that was started by a single message. Instead of writing a new message, just look for a feature to answer to the given message.
 
@@ -54,6 +31,29 @@ Sometimes there is more than one topic discussed in a single message, and all co
 ====
 * https://slack.com/help/articles/202288908-Format-your-messages#markup
 * https://support.google.com/a/users/answer/9308682?hl=en
+====
+
+
+== Link to content
+Instead of describing where to look for something in a textual manner, just share the URL of that resource, so the recipient of your message will only have to open the link instead of having to follow your instructions or manually have to search for the described thing, which may end in non-exact results. So, sharing links also makes sure the recipient will know exactly what you are talking about, no misunderstanding, since the resource absolutely defines, what's going on.
+
+
+=== Link to sections or paragraphs
+When you are referring to only one part of an external resource, you should consider sharing the URL to a given section on the resource. For example, a link to a heading of an article section or a block of a give document, line of code or even section or lines, etc. The more accurate you link, the best.
+
+.Platform examples
+[%collapsible]
+====
+* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
+====
+
+
+=== Link to text fragments
+
+.Platform examples
+[%collapsible]
+====
+* https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg?hl=en
 ====
 
 
