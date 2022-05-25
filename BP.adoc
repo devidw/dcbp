@@ -46,7 +46,8 @@ In chat based communication it is extremely helpful to keep related content rela
 ====
 
 
-== Quote on text
+== Quote
+Sometimes there is more than one topic discussed in a single message, and all content is related to the same topic. In this case, it is very helpful to quote the original message and answer topic by topic. This way, the recipient will be able to understand the context immediately, and it's absolutely sure that the reply is interpreted without any misunderstandings. Also, no guessing is needed, since the relationship to the original message is clearly defined.
 
 .Platform examples
 [%collapsible]
