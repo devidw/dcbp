@@ -3,7 +3,7 @@
 To view and edit the best practices open link:./BP.adoc[].
 
 
-== Build
+== Development
 
 === Conda
 // conda env export > environment.yml
